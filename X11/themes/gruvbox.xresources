@@ -1,4 +1,0 @@
-#include "myConfigs/X11/themes/gruvbox/gruvbox-dark.xresources"
-#include "myConfigs/X11/themes/gruvbox/gruvbox-urxvt256.xresources"
-
-*.fading: 20
